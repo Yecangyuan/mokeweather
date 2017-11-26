@@ -6,6 +6,6 @@
     <list>
         <mapping class = "com.mokeweather.android.db.Province"/>
         <mapping class ="com.mokeweather.android.db.City"/>
-        <mapping class ="com.mokeweather.android.db.Country"/>
+        <mapping class ="com.mokeweather.android.db.County"/>
     </list>
 </litepal>
